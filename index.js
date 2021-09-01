@@ -4,7 +4,7 @@
 
 ?? 'variable'
     type = Button
-    value = "hello"
+    value = "new input"
 */
 
 
